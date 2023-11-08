@@ -1,0 +1,14 @@
+D:\Development\Learn-CShap\YT\14PassByReference\bin\Debug\net7.0\14PassByReference.exe
+D:\Development\Learn-CShap\YT\14PassByReference\bin\Debug\net7.0\14PassByReference.deps.json
+D:\Development\Learn-CShap\YT\14PassByReference\bin\Debug\net7.0\14PassByReference.runtimeconfig.json
+D:\Development\Learn-CShap\YT\14PassByReference\bin\Debug\net7.0\14PassByReference.dll
+D:\Development\Learn-CShap\YT\14PassByReference\bin\Debug\net7.0\14PassByReference.pdb
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.AssemblyInfoInputs.cache
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.AssemblyInfo.cs
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.csproj.CoreCompileInputs.cache
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.dll
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\refint\14PassByReference.dll
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.pdb
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\14PassByReference.genruntimeconfig.cache
+D:\Development\Learn-CShap\YT\14PassByReference\obj\Debug\net7.0\ref\14PassByReference.dll

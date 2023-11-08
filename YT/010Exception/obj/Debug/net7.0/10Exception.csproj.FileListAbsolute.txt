@@ -1,0 +1,14 @@
+D:\Development\Learn-CShap\YT\010Exception\bin\Debug\net7.0\10Exception.exe
+D:\Development\Learn-CShap\YT\010Exception\bin\Debug\net7.0\10Exception.deps.json
+D:\Development\Learn-CShap\YT\010Exception\bin\Debug\net7.0\10Exception.runtimeconfig.json
+D:\Development\Learn-CShap\YT\010Exception\bin\Debug\net7.0\10Exception.dll
+D:\Development\Learn-CShap\YT\010Exception\bin\Debug\net7.0\10Exception.pdb
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.AssemblyInfoInputs.cache
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.AssemblyInfo.cs
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.csproj.CoreCompileInputs.cache
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.dll
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\refint\10Exception.dll
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.pdb
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\10Exception.genruntimeconfig.cache
+D:\Development\Learn-CShap\YT\010Exception\obj\Debug\net7.0\ref\10Exception.dll
