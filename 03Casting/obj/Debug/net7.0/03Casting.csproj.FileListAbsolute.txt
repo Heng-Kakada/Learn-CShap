@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/bin/Debug/net7.0/03Casting
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/bin/Debug/net7.0/03Casting.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/bin/Debug/net7.0/03Casting.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/bin/Debug/net7.0/03Casting.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/bin/Debug/net7.0/03Casting.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/refint/03Casting.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/03Casting.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/03Casting/obj/Debug/net7.0/ref/03Casting.dll

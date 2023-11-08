@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/bin/Debug/net7.0/06Arrays
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/bin/Debug/net7.0/06Arrays.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/bin/Debug/net7.0/06Arrays.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/bin/Debug/net7.0/06Arrays.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/bin/Debug/net7.0/06Arrays.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/refint/06Arrays.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/06Arrays.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/06Arrays/obj/Debug/net7.0/ref/06Arrays.dll

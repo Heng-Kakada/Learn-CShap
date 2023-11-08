@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/bin/Debug/net7.0/02InputOutput
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/bin/Debug/net7.0/02InputOutput.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/bin/Debug/net7.0/02InputOutput.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/bin/Debug/net7.0/02InputOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/bin/Debug/net7.0/02InputOutput.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/refint/02InputOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/02InputOutput.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/02Output/obj/Debug/net7.0/ref/02InputOutput.dll

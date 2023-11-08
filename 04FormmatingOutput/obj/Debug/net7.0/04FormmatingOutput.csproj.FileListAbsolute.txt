@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/bin/Debug/net7.0/04FormmatingOutput
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/bin/Debug/net7.0/04FormmatingOutput.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/bin/Debug/net7.0/04FormmatingOutput.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/bin/Debug/net7.0/04FormmatingOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/bin/Debug/net7.0/04FormmatingOutput.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/refint/04FormmatingOutput.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/04FormmatingOutput.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/04FormmatingOutput/obj/Debug/net7.0/ref/04FormmatingOutput.dll

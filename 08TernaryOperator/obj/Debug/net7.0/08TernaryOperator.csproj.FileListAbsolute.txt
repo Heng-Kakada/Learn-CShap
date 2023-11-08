@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/bin/Debug/net7.0/08TernaryOperator
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/bin/Debug/net7.0/08TernaryOperator.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/bin/Debug/net7.0/08TernaryOperator.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/bin/Debug/net7.0/08TernaryOperator.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/bin/Debug/net7.0/08TernaryOperator.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/refint/08TernaryOperator.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/08TernaryOperator.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/08TernaryOperator/obj/Debug/net7.0/ref/08TernaryOperator.dll

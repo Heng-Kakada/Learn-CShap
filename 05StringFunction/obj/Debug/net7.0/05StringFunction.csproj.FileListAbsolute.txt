@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/bin/Debug/net7.0/05StringFunction
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/bin/Debug/net7.0/05StringFunction.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/bin/Debug/net7.0/05StringFunction.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/bin/Debug/net7.0/05StringFunction.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/bin/Debug/net7.0/05StringFunction.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/refint/05StringFunction.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/05StringFunction.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/05StringFunction/obj/Debug/net7.0/ref/05StringFunction.dll

@@ -1,0 +1,15 @@
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/bin/Debug/net7.0/01NameSpaceExample
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/bin/Debug/net7.0/01NameSpaceExample.deps.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/bin/Debug/net7.0/01NameSpaceExample.runtimeconfig.json
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/bin/Debug/net7.0/01NameSpaceExample.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/bin/Debug/net7.0/01NameSpaceExample.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.csproj.AssemblyReference.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.AssemblyInfoInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.AssemblyInfo.cs
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.csproj.CoreCompileInputs.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/refint/01NameSpaceExample.dll
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.pdb
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/01NameSpaceExample.genruntimeconfig.cache
+/Users/hengkakada/DeveloperMode/LearnCode/LearnC#/01NameSpaceExample/obj/Debug/net7.0/ref/01NameSpaceExample.dll
