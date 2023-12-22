@@ -1,0 +1,14 @@
+D:\Development\Learn-CShap\YT\11StringBuilder\bin\Debug\net7.0\11StringBuilder.exe
+D:\Development\Learn-CShap\YT\11StringBuilder\bin\Debug\net7.0\11StringBuilder.deps.json
+D:\Development\Learn-CShap\YT\11StringBuilder\bin\Debug\net7.0\11StringBuilder.runtimeconfig.json
+D:\Development\Learn-CShap\YT\11StringBuilder\bin\Debug\net7.0\11StringBuilder.dll
+D:\Development\Learn-CShap\YT\11StringBuilder\bin\Debug\net7.0\11StringBuilder.pdb
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.AssemblyInfoInputs.cache
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.AssemblyInfo.cs
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.csproj.CoreCompileInputs.cache
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.dll
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\refint\11StringBuilder.dll
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.pdb
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\11StringBuilder.genruntimeconfig.cache
+D:\Development\Learn-CShap\YT\11StringBuilder\obj\Debug\net7.0\ref\11StringBuilder.dll

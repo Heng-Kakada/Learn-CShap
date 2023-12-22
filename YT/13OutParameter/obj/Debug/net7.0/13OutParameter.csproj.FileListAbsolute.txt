@@ -1,0 +1,14 @@
+D:\Development\Learn-CShap\YT\13OutParameter\bin\Debug\net7.0\13OutParameter.exe
+D:\Development\Learn-CShap\YT\13OutParameter\bin\Debug\net7.0\13OutParameter.deps.json
+D:\Development\Learn-CShap\YT\13OutParameter\bin\Debug\net7.0\13OutParameter.runtimeconfig.json
+D:\Development\Learn-CShap\YT\13OutParameter\bin\Debug\net7.0\13OutParameter.dll
+D:\Development\Learn-CShap\YT\13OutParameter\bin\Debug\net7.0\13OutParameter.pdb
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.AssemblyInfoInputs.cache
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.AssemblyInfo.cs
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.csproj.CoreCompileInputs.cache
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.dll
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\refint\13OutParameter.dll
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.pdb
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\13OutParameter.genruntimeconfig.cache
+D:\Development\Learn-CShap\YT\13OutParameter\obj\Debug\net7.0\ref\13OutParameter.dll

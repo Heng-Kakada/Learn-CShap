@@ -1,0 +1,14 @@
+D:\Development\Learn-CShap\YT\12Functions\bin\Debug\net7.0\12Functions.exe
+D:\Development\Learn-CShap\YT\12Functions\bin\Debug\net7.0\12Functions.deps.json
+D:\Development\Learn-CShap\YT\12Functions\bin\Debug\net7.0\12Functions.runtimeconfig.json
+D:\Development\Learn-CShap\YT\12Functions\bin\Debug\net7.0\12Functions.dll
+D:\Development\Learn-CShap\YT\12Functions\bin\Debug\net7.0\12Functions.pdb
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.AssemblyInfoInputs.cache
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.AssemblyInfo.cs
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.csproj.CoreCompileInputs.cache
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.dll
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\refint\12Functions.dll
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.pdb
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\12Functions.genruntimeconfig.cache
+D:\Development\Learn-CShap\YT\12Functions\obj\Debug\net7.0\ref\12Functions.dll
